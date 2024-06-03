@@ -3,11 +3,16 @@ package LinkedListPractice;
 public class DoublyLinkedList 
 {
     private int data;
-    private Node head;
-    private Node tail;
+    private Node next;
+    private Node prev;
 
-    public DoublyLinkedList() 
+    /** 
+     * @param data
+    */
+    public DoublyLinkedList(int data) 
     {
-
+        this.data = data;
+        this.next = null;
+        this.prev = null;
     }
 }

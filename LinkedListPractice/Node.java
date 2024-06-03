@@ -2,7 +2,7 @@ package LinkedListPractice;
 
 public class Node 
 {
-    private int data;
+    int data;
     private Node prev;
     private Node next;
 
