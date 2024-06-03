@@ -7,4 +7,4 @@
 
 ### Resources Used
     - Codecademy.com
-    - _Data Structures and Other Objects, 4th Edition_ by Michael Main
+    - Data Structures and Other Objects, 4th Edition, by Michael Main
